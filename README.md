@@ -134,19 +134,19 @@ connectivity_plus: ^5.0.2     # Network status
 - Home Screen (Grid Layout with Hot News)
 ![Home Screen](Screenshots/home.png)
 - Search Results
-![Reach Results](Screenshots/Search Results.png)
+![Reach Results](Screenshots/Search.png)
 - Article Detail
-![Article Detail](Screenshots/Article Detail.png)
+![Article Detail](Screenshots/Article.png)
 - Bookmarks
 ![Bookmarks](Screenshots/Bookmarks.png)
 
 ### Dark Mode
 - All screens with dark theme
-![dark theme](Screenshots/dark theme.png)
+![dark theme](Screenshots/dark.png)
 - Smooth transitions
-![Smooth transitions](Screenshots/Smooth transitions.png)
+![Smooth transitions](Screenshots/Smooth.png)
 - Gradient effects
-![Gradient effects](Screenshots/Gradient effects.png)
+![Gradient effects](Screenshots/Gradient.png)
 
 ## 🎨 Theme
 
