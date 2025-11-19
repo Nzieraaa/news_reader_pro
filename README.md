@@ -142,7 +142,7 @@ connectivity_plus: ^5.0.2     # Network status
 
 ### Dark Mode
 - All screens with dark theme
-![dark theme](Screenshots/dark.png)
+![dark theme](Screenshots/dark.jpeg)
 - Smooth transitions
 ![Smooth transitions](Screenshots/Smooth.png)
 - Gradient effects
